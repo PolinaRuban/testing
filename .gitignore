@@ -1,0 +1,6 @@
+Diploma/node_modules/
+packages/
+Diploma/bin/
+Diploma/wwwroot/
+*.cache
+Diploma/obj/
